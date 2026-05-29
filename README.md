@@ -184,14 +184,8 @@ The application will automatically deploy and become publicly accessible.
 
 Access the deployed application here:
 
-```text
-https://ajilatosin-mediclaimai.hf.space/
+https://ajilatosin-mediclaimai.hf.space
 
-```
-
-> Replace the placeholder URL with your actual Hugging Face Space link.
-
----
 
 ## Future Improvements
 
@@ -207,22 +201,13 @@ https://ajilatosin-mediclaimai.hf.space/
 ## Screenshots
 
 ### Application Dashboard
-
-```text
-Add dashboard screenshot here
-```
+<img src="M_Dashboard1.png" width="200"/>
 
 ### Prediction Interface
-
-```text
-Add prediction interface screenshot here
-```
+<img src="M_Dashboard2.png" width="200"/>
 
 ### Data Visualization
-
-```text
-Add EDA or visualization screenshot here
-```
+<img src="M_Dashboard3.png" width="200"/>
 
 ---
 
@@ -245,7 +230,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Developed by Your Name
+Developed by Ajilatosin
 
 Contributions, suggestions, and feedback are welcome.
 
