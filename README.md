@@ -4,7 +4,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An end-to-end machine learning application that predicts medical insurance claim amounts based on patient demographics, health metrics, and lifestyle factors. The project covers data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and deployment using Gradio on Hugging Face Spaces.
+An end-to-end machine learning application that predicts medical insurance claim amounts based on patient demographics, health metrics, and lifestyle factors. The project covers data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and deployment using Gradio on Hugging Face Spaces..
 
 ---
 
